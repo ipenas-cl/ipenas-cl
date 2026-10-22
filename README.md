@@ -4,7 +4,7 @@
 
 > 🟢 **Open to work: Software Engineer (backend / platform) or SRE, remote or Santiago**, available immediately.
 
-I write the services and I run them in production: Go, Rust and TypeScript backends with hexagonal architecture and resilience patterns, plus cloud infrastructure, Kubernetes, IaC, CI/CD, observability, and the services on top of them. I've worked on AWS since 2019 and have led single-region to multi-region migrations in production. I hold 11 CNCF certifications.
+I write the services and I run them in production: Go, Rust and TypeScript backends with hexagonal architecture and resilience patterns, plus cloud infrastructure, Kubernetes, IaC, CI/CD and observability. I've worked on AWS since 2019 and have led single-region to multi-region migrations in production. I hold 11 CNCF certifications.
 
 ### Featured projects
 
