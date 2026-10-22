@@ -1,10 +1,10 @@
 # Hi, I'm Ignacio 👋
 
-**Site Reliability / Platform / Software Engineer with 12+ years running critical production systems.**
+**Software Engineer & SRE: I design, build and run production systems. 12+ years keeping critical platforms up.**
 
-> 🟢 **Open to work: SRE / Platform / Software Engineer, remote or Santiago**, available immediately.
+> 🟢 **Open to work: Software Engineer (backend / platform) or SRE, remote or Santiago**, available immediately.
 
-I build and run production platforms end to end: cloud infrastructure, Kubernetes, IaC, CI/CD, observability, and the services on top of them. I've worked on AWS since 2019 and have led single-region to multi-region migrations in production. I hold 11 CNCF certifications.
+I write the services and I run them in production: Go, Rust and TypeScript backends with hexagonal architecture and resilience patterns, plus cloud infrastructure, Kubernetes, IaC, CI/CD, observability, and the services on top of them. I've worked on AWS since 2019 and have led single-region to multi-region migrations in production. I hold 11 CNCF certifications.
 
 ### Featured projects
 
