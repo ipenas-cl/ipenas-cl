@@ -10,6 +10,7 @@ I build and run production platforms end to end: cloud infrastructure, Kubernete
 
 | Project | Stack | What it does |
 |---|---|---|
+| [orderflow](https://github.com/ipenas-cl/orderflow) | Go · NATS JetStream · PostgreSQL · Stripe · Auth0 · React/TS · OpenTelemetry · Helm · Terraform | An e-commerce order, payment and fulfillment platform built like production: five hexagonal services, a saga with compensations, a transactional outbox and an idempotent inbox, and a circuit breaker, retries with jitter, bulkheads, rate limits and idempotency keys. It includes a Stripe adapter with verified webhooks, an Auth0/JWT backoffice with RBAC and an audit log, Grafana SLOs and burn-rate alerts, and chaos scripts that show the saga compensating. |
 | [hookrelay](https://github.com/ipenas-cl/hookrelay) | Rust · axum · tokio · SQLite | A reliable webhook relay. It verifies HMAC `X-Hub-Signature-256` signatures (WhatsApp/Meta style), persists events to a durable queue, and delivers them with retries, exponential backoff, a dead-letter queue, idempotency keys and Prometheus metrics. |
 | [slo-probe](https://github.com/ipenas-cl/slo-probe) | Go · Prometheus | A synthetic prober that computes SLIs, error budgets and multi-window burn-rate alerts. It exports metrics, and its CLI report can serve as a deploy gate. |
 | [hookrelay-console](https://github.com/ipenas-cl/hookrelay-console) | TypeScript · React · Vite | An operator UI for hookrelay with deliveries, the dead-letter queue, one-click replay and a mock mode. |
