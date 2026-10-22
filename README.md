@@ -18,6 +18,7 @@ I build and run production platforms end to end: cloud infrastructure, Kubernete
 | [kernel-patch-validator](https://github.com/ipenas-cl/kernel-patch-validator) | Shell | Checks Linux kernel patches before you submit them upstream. I announced it on linux-kernel-mentees, where Greg Kroah-Hartman reviewed it ("I like the idea") and suggested moving the checks into `checkpatch.pl`, which I then proposed as checkpatch patches. |
 | [Chronos](https://github.com/ipenas-cl/Chronos) | C · x86-64 Assembly | An experimental systems language designed to be deterministic and memory-safe. Its compiler, written in C and Assembly, emits native ELF64 binaries with no libc. |
 | [AtomicOS](https://github.com/ipenas-cl/AtomicOS) | Assembly | An operating system written from scratch in Assembly. |
+| [leafwise](https://github.com/ipenas-cl/leafwise) | Go · PyTorch · ONNX Runtime · React PWA · Postgres · MinIO | A smart gardening assistant. It schedules watering and feeding from a soil water balance driven by real Open-Meteo weather, and diagnoses leaf diseases from photos with a MobileNetV3 I fine-tuned on PlantVillage (94% test accuracy), served through ONNX Runtime behind a hexagonal diagnosis port with an optional vision-LLM second opinion. |
 
 ### Experience highlights
 
