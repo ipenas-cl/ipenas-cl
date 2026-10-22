@@ -43,3 +43,7 @@ I build and run production platforms end to end: cloud infrastructure, Kubernete
 LinkedIn: https://www.linkedin.com/in/ignacio-pe%C3%B1a-2905b454/
 
 Native Spanish speaker, professional working proficiency in English.
+
+## Certifications
+
+**11 Linux Foundation / CNCF certifications:** CKAD · KCNA · KCSA · PCA (Prometheus) · OTCA (OpenTelemetry) · CAPA (Argo) · CGOA (GitOps) · CNPA (Platform Engineering) · CBA (Backstage) · KCA (Kyverno) · CCA (Cilium)
